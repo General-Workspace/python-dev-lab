@@ -1,0 +1,4 @@
+IDE - Integrated Development Environment
+OOP - Object Oriented Programming
+JSON - Javascript Object Notation
+AI - Artificial Intelligence
